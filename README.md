@@ -1,3 +1,5 @@
 # hairy-shame
 Mitchell Block Lab4 - Git
-Partner: Joe
+Partner: Jo
+
+This might cause a merge conflict e
