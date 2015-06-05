@@ -1,2 +1,2 @@
 # hairy-shame
-Git practice for CSCI 3308
+Mitchell Block Lab4 - Git
